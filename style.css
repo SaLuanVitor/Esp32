@@ -96,3 +96,13 @@ header {
     }
 
 }
+
+@media (max-width:400px) {
+    .tamanho {
+        font-size: 8px;
+    }
+
+    .bateria {
+        font-size: 8px;
+    }
+}
