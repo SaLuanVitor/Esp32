@@ -147,6 +147,13 @@ header {
     }
 }
 
+@media (max-width:380px) {
+    .background {
+        background-size: contain;
+        background-position: top;
+    }
+}
+
 @media (max-width:300px) {
     .sensores {
         font-size: 8px;
